@@ -120,19 +120,19 @@ function Home() {
               <span>
                 <BsInstagram />
               </span>
-              <span>
+              {/* <span>
                 <BsFacebook />
-              </span>
+              </span> */}
             </div>
           </div>
 
           <div className="hr-footer"></div>
           <div className="footer-body-bottom">
             <p>Copyright © Invitaciones Kyp</p>
-            <p id="footer-links">
+            {/* <p id="footer-links">
               <span><a href="#">Avisos de privacidad</a> </span> |{" "}
               <span><a href="">Términos y condiciones</a></span>
-            </p>
+            </p> */}
           </div>
         </div>
       </footer>
