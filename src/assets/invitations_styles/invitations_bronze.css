@@ -24,6 +24,12 @@
   color: #0d0c0c;
 }
 
+.itinerary-activity-card-danric161223,
+.dresscode-card-danric161223 {
+  border: 1px solid black;
+  background-color: #f5ddc8f8;
+}
+
 .maps-link-danric161223 {
   color: #4c8df0;
   text-decoration: underline;
