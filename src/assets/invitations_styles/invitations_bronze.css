@@ -1,0 +1,88 @@
+/**************************** Invitations (individual customs) ****************************/
+
+/*Invitacion Bronce danielaricardo210923*/
+.invitation-footer-danric161223 {
+  background-color: #025373;
+}
+
+.btn-form-bronze-danric161223 {
+  background-color: #025e73;
+}
+
+.itinerary-container-bronze-danric161223 {
+  bottom: 190px;
+}
+
+.itinerary-image-bronze-danric161223 {
+  object-position: 0px -70px;
+  /* x y*/
+}
+
+.itinerary-activity-card-danric161223,
+.dresscode-card-danric161223 {
+  background-color: #d9cccc;
+  color: #0d0c0c;
+}
+
+.maps-link-danric161223 {
+  color: #4c8df0;
+  text-decoration: underline;
+}
+
+/* .maps-link-danric161223-1 {
+  margin-top: 40px;
+} */
+
+.form-image {
+  object-position: 0 40px;
+}
+
+@media screen and (max-width: 850px) {
+  .cover-invitation-container-danric161223 {
+    background-position: -300px 0px;
+  }
+
+  .cover-invitation-title-danric161223 {
+    top: 350px;
+    left: 10%;
+    font-size: 65px;
+  }
+
+  .itinerary-image-bronze-danric161223 {
+    object-position: 0px -10px;
+    /* x y*/
+  }
+
+  .invitation-form-bronze-container-danric161223 {
+    background-position: 0px -50px;
+    background-size: cover;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .cover-invitation-container-danric161223 {
+    background-position: -400px 0px;
+  }
+
+  .cover-invitation-title-danric161223 {
+    top: 33vh;
+    left: 2%;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .cover-invitation-container-danric161223 {
+    background-position: -480px 0px;
+  }
+
+  .itinerary-image-bronze-danric161223 {
+    object-position: -150px -10px;
+    /* x y*/
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .cover-invitation-container-danric161223 {
+    background-position: -530px 0px;
+  }
+}
