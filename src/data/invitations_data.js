@@ -134,7 +134,7 @@ export let invitations_data = {
       ],
     },
     recomendations: {
-      recommendationTitle:'Recomendacion de hoteles',
+      recommendationTitle:'Recomendación de hoteles',
       recomendationPhrase: 'Estos son algunos de los hoteles que recomendamos para tu estadia.',
       recommendationList:[
         {
