@@ -24,14 +24,20 @@
     font-size: 25px;
 }
 
+
 .itinerary-image-bronze-sofdie160224{
         height: 370px;
         object-position: 0 -330px;
 }
 
-.btn-form-bronze-sofdie160224, .invitation-footer-sofdie160224, .itinerary-activity-card-sofdie160224, .dresscode-card-sofdie160224, .maps-link-sofdie160224{
+.btn-form-bronze-sofdie160224, .invitation-footer-sofdie160224, .dresscode-card-sofdie160224, .maps-link-sofdie160224{
     color: #F2E1C2;
     background-color:  #576859;
+}
+
+.itinerary-activity-card-sofdie160224{
+    background-color: #576859 ;
+    color: #F2E1C2;
 }
 
 .gallery-section-sofdie160224{
