@@ -1,4 +1,3 @@
-
 /*Cover*/
 .black-filter {
   background-color: #00000056;
@@ -122,8 +121,9 @@
 }
 
 .css-19kzrtu {
-   padding: 0px !important; 
+  padding: 0px !important;
 }
+
 /*Form*/
 
 .invitation-form-bronze-container {
@@ -135,7 +135,7 @@
 .form-invitation {
   width: 70%;
   padding: 80px;
-  
+
 }
 
 .form-image {
@@ -245,9 +245,10 @@
 }
 
 @media screen and (max-width: 450px) {
-  .cover-invitation-title{
+  .cover-invitation-title {
     left: 0%;
   }
+
   .save-the-date-container {
     padding: 5px;
     margin-top: 25px;
@@ -282,10 +283,10 @@
 
   .invitation-form-bronze-container {
     width: 90vw;
-    
-    
-      margin: 60px 5vw !important;
-    
+
+
+    margin: 60px 5vw !important;
+
   }
 
   .btn-form-bronze {
@@ -306,162 +307,170 @@
 
 /********************************** Gold invitations css **********************************/
 
-.traditional-countdown{
-    
-    position: absolute;
-    top: 410px;
-    font-size: 25px;
-    color: aliceblue;
-    left: 34%;
+.traditional-countdown {
+
+  position: absolute;
+  top: 410px;
+  font-size: 25px;
+  color: aliceblue;
+  left: 34%;
 }
 
 .traditional-countdown {
-    display: flex;
-    justify-content: center;
-    gap: 25px;
-    text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  text-align: center;
 }
 
-.gallery-section{
-    padding: 50px 0;
+.gallery-section {
+  padding: 50px 0;
 }
 
-.gallery-title, .gallery-phrase{
-    text-align: center;
+.gallery-title,
+.gallery-phrase {
+  text-align: center;
 }
 
-.gallery-title{
-    font-size: 50px;
+.gallery-title {
+  font-size: 50px;
 }
 
-.gallery-phrase{
+.gallery-phrase {
 
-    padding-top: 18px;
-    font-size: 22px;
-}
-.photo-album-container{
-    width: 80vw;
-    padding: 50px 0;
-    margin: 0 auto;
+  padding-top: 18px;
+  font-size: 22px;
 }
 
-.recomendations-section{
-    text-align: center;
-    margin: 80px 0;
+.photo-album-container {
+  width: 80vw;
+  padding: 50px 0;
+  margin: 0 auto;
 }
 
-.recomendation-title{
-    font-size: 50px;
-    margin-bottom: 18px;
+.recomendations-section {
+  text-align: center;
+  margin: 80px 0;
+}
+
+.recomendation-title {
+  font-size: 50px;
+  margin-bottom: 18px;
 }
 
 
-.recomendation-description{
-    font-size: 19px;
+.recomendation-description {
+  font-size: 19px;
 }
 
-.recomendation-cards-container{
-    margin-top: 70px;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 70px;
-    justify-content: center;
+.recomendation-cards-container {
+  margin-top: 70px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 70px;
+  justify-content: center;
 }
 
 .recomendation-card {
-    width: 320px;
+  width: 320px;
 }
 
-.recomendation-card-body > img{
-    width: 100%;
-    height: 220px;
-    object-fit: cover;
-    border-radius: 7px;
-    margin: 25px 0;
+.recomendation-card-body>img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 7px;
+  margin: 25px 0;
 }
 
-.card-table-gift > img {
-    height: 70px;
-    margin-bottom: 45px;
+.card-table-gift>img {
+  height: 70px;
+  margin-bottom: 45px;
 }
 
-.gift-tables-section{
-    margin: 90px 0 110px;
-    text-align: center;
+.gift-tables-section {
+  margin: 90px 0 110px;
+  text-align: center;
 }
 
-.gift-tables-container{
-    
-    width: 80%;
-    margin: 25px auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 75px;
+.gift-tables-container {
+
+  width: 80%;
+  margin: 25px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 75px;
 }
 
-.card-table{
-    display: flex;
-    justify-content: center;
-    width: fit-content;
-    height: 150px;
+.card-table {
+  display: flex;
+  justify-content: center;
+  width: fit-content;
+  height: 150px;
 }
 
-.gift-tables-title{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 35px;
-    padding: 0 14%;
+.gift-tables-title {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 35px;
+  padding: 0 14%;
 }
 
-.gift-table-subtitle{
-    margin: 20px 0 60px;
-    font-size: 22px;
+.gift-table-subtitle {
+  margin: 20px 0 60px;
+  font-size: 22px;
 }
 
-.btn-gift-table{
-    padding: 15px;
-    border-radius: 15px;
-    color: black;
-    margin-left: 15px;
+.btn-gift-table {
+  padding: 15px;
+  border-radius: 15px;
+  color: black;
+  margin-left: 15px;
 }
 
-.btn-gift-table-amazon{
-    background: #CAC531;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #F3F9A7, #CAC531);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #F3F9A7, #CAC531); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+.btn-gift-table-amazon {
+  background: #CAC531;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #F3F9A7, #CAC531);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #F3F9A7, #CAC531);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
-.btn-gift-table-liverpool{
-    background: #f4c4f3;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #fc67fa, #f4c4f3);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #fc67fa, #f4c4f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+.btn-gift-table-liverpool {
+  background: #f4c4f3;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #fc67fa, #f4c4f3);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #fc67fa, #f4c4f3);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
 /*List confirmation page*/
 
-.list-table-title{
+.list-table-title {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.list-guest-container{
+.list-guest-container {
   width: 95vw;
   margin: 0px auto;
 }
 
-.list-table-title{
+.list-table-title {
   text-align: center;
   padding: 50px 0;
 }
 
-.btn-print-list{
+.btn-print-list {
   font-size: 15px !important;
   margin-left: 90%;
   margin-bottom: 50px;
 }
 
-.th-title{
+.th-title {
   text-align: center;
   font-size: 15px;
   font-weight: bolder !important;
@@ -469,205 +478,211 @@ background: linear-gradient(to right, #fc67fa, #f4c4f3); /* W3C, IE 10+/ Edge, F
 
 /****************************  Media Query Params (gold template)  *****************************/
 @media screen and (max-width: 1450px) {
-    
 
-    .traditional-countdown{
-        margin-top: 25px;
-        left: 32%;
-        font-size: 35px;
-    }
+
+  .traditional-countdown {
+    margin-top: 25px;
+    left: 32%;
+    font-size: 35px;
+  }
 }
+
 @media screen and (max-width: 1200px) {
-    .traditional-countdown{
-        margin-top: 40px;
-        left: 24%;
-        font-size: 35px;
-    }
-    .save-the-date-title {
-      font-size: 55px;
-    }
-  
-    .event-date {
-      margin: 0 2%;
-      font-size: 30px;
-    }
-  
-    .invitation-phrase {
-      margin-top: 20px;
-      font-size: 25px;
-    }
-  
-    .hr-event-date {
-      max-width: 150px;
-      min-width: 80px;
-      margin-top: 20px;
-    }
-  
-    .activity-title,
-    .dresscode-card-title {
-      font-size: 45px;
-    }
-  
-    .itinerary-activity-card,
-    .dresscode-card {
-      height: 330px;
-      width: 320px;
-      padding: 14px;
-      font-size: 19px;
-    }
+  .traditional-countdown {
+    margin-top: 40px;
+    left: 24%;
+    font-size: 35px;
   }
-  
-  @media screen and (max-width: 850px) {
-    
 
-    .traditional-countdown{
-        margin-top: 25px;
-        top: 50%;
-        left: 14%;
-        font-size: 35px;
-    }
-
-    .save-the-date-title {
-      font-size: 52px;
-    }
-  
-    .hr-event-date {
-      min-width: 15px;
-      max-width: 120px;
-      margin: 22px 15px 0;
-    }
-  
-    .invitation-phrase {
-      margin-top: 25px;
-    }
-  
-    .form-image {
-      display: none;
-    }
-  
-    .form-invitation {
-      width: 100%;
-      padding: 18px;
-      background-color: #0001024d;
-      color: #ffffff;
-    }
-  
-    .invitation-form-bronze-container {
-      width: 95vw;
-      margin: 0px 0px 0px 16px;
-    }
-  
-    .btn-form-bronze {
-      margin: 15px 40%;
-    }
-
-    .form-label{
-        color: aliceblue !important;
-    }
+  .save-the-date-title {
+    font-size: 55px;
   }
-  
-  @media screen and (max-width: 600px) {
-    .save-the-date-title {
-      font-size: 35px;
-    }
-  
-    .hr-event-date {
-      max-width: 80px;
-      min-width: 25px;
-      margin-top: 12px;
-    }
-  
-    .invitation-phrase {
-      font-size: 18px;
-    }
+
+  .event-date {
+    margin: 0 2%;
+    font-size: 30px;
   }
-  
-  @media screen and (max-width: 450px) {
-    .cover-invitation-title{
-        font-size: 55px;
-    }
 
-    .traditional-countdown{
-        left: 4%;
-        font-size: 4.4vw;
-    }
-    .save-the-date-container {
-      padding: 5px;
-      margin-top: 25px;
-    }
-  
-    .save-the-date-title {
-      font-size: 30px;
-    }
-  
-    .hr-event-date {
-      display: none;
-    }
-  
-    .event-date {
-      font-size: 22px;
-      /* margin: 0 0 0 26%; */
-    }
-  
-    .activity-title,
-    .dresscode-card-title {
-      font-size: 40px;
-    }
-  
-    .itinerary-activity-card,
-    .dresscode-card {
-      font-size: 16px;
-    }
-  
-    .tab-map {
-      width: 100vw;
-    }
-  
-    .invitation-form-bronze-container {
-      width: 90vw;
-    }
-    .gift-tables-title{
-        font-size: 22px;
-        padding: 0 4%;
-    }
-  
-    .btn-form-bronze {
-      margin: 15px 25%;
-    }
-
-    
+  .invitation-phrase {
+    margin-top: 20px;
+    font-size: 25px;
   }
-  
-  @media screen and (max-width: 350px) {
 
-    .recomendation-title{
-        font-size: 38px;
-    }
-
-    .recomendation-description{
-        padding: 15px 15px;
-    }
-  
-    .invitation-phrase {
-      font-size: 12px;
-    }
-
-    .traditional-countdown{
-        margin-top: 20px;
-        left: 2%;
-        font-size: 15px;
-    }
-    
-    .event-date {
-      font-size: 18px;
-      margin: 0 20%;
-    }
-
-    .recomendation-card-body > img { 
-        padding: 0 15px;
-    }
-  
-    .invitation-phrase {
-      font-size: 12px;
-    }
+  .hr-event-date {
+    max-width: 150px;
+    min-width: 80px;
+    margin-top: 20px;
   }
+
+  .activity-title,
+  .dresscode-card-title {
+    font-size: 45px;
+  }
+
+  .itinerary-activity-card,
+  .dresscode-card {
+    height: 330px;
+    width: 320px;
+    padding: 14px;
+    font-size: 19px;
+  }
+}
+
+@media screen and (max-width: 850px) {
+
+
+  .traditional-countdown {
+    margin-top: 25px;
+    top: 50%;
+    left: 14%;
+    font-size: 35px;
+  }
+
+  .save-the-date-title {
+    font-size: 52px;
+  }
+
+  .hr-event-date {
+    min-width: 15px;
+    max-width: 120px;
+    margin: 22px 15px 0;
+  }
+
+  .invitation-phrase {
+    margin-top: 25px;
+  }
+
+  .form-image {
+    display: none;
+  }
+
+  .form-invitation {
+    width: 100%;
+    padding: 18px;
+    background-color: #0001024d;
+    color: #ffffff;
+  }
+
+  .invitation-form-bronze-container {
+    width: 95vw;
+    margin: 0px 0px 0px 16px;
+  }
+
+  .btn-form-bronze {
+    margin: 15px 40%;
+  }
+
+  .form-label {
+    color: aliceblue !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .save-the-date-title {
+    font-size: 35px;
+  }
+
+  .hr-event-date {
+    max-width: 80px;
+    min-width: 25px;
+    margin-top: 12px;
+  }
+
+  .invitation-phrase {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .cover-invitation-title {
+    font-size: 55px;
+  }
+
+  .traditional-countdown {
+    top: 450px;
+    left: 5%;
+    font-size: 4.4vw;
+  }
+
+  .save-the-date-container {
+    padding: 5px;
+    margin-top: 25px;
+  }
+
+  .save-the-date-title {
+    font-size: 30px;
+  }
+
+  .hr-event-date {
+    display: none;
+  }
+
+  .event-date {
+    font-size: 22px;
+    /* margin: 0 0 0 26%; */
+  }
+
+  .activity-title,
+  .dresscode-card-title {
+    font-size: 40px;
+  }
+
+  .itinerary-activity-card,
+  .dresscode-card {
+    font-size: 16px;
+  }
+
+  .tab-map {
+    width: 100vw;
+  }
+
+  .invitation-form-bronze-container {
+    width: 90vw;
+  }
+
+  .gift-tables-title {
+    font-size: 22px;
+    padding: 0 4%;
+  }
+
+  .btn-form-bronze {
+    margin: 15px 25%;
+  }
+
+
+}
+
+@media screen and (max-width: 350px) {
+
+  .recomendation-title {
+    padding: 5px 15px;
+    font-size: 38px;
+  }
+
+  .recomendation-description {
+    padding: 15px 15px;
+  }
+
+  .invitation-phrase {
+    font-size: 12px;
+  }
+
+  .traditional-countdown {
+    margin-top: 20px;
+    left: 2%;
+    font-size: 15px;
+  }
+
+  .event-date {
+    font-size: 18px;
+    margin: 0 20%;
+  }
+
+  .recomendation-card-body>img {
+    padding: 0 15px;
+  }
+
+  .invitation-phrase {
+    font-size: 12px;
+  }
+}
