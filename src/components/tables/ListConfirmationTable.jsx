@@ -26,7 +26,7 @@ function ListConfirmationTable({id, class_Id, event}) {
 
         <Button className='btn-print-list' variant="info" onClick={() => print()}>Imprimir</Button>
         <div className={`list-guest-container list-guest-container-${class_Id}`}>
-        <Table striped bordered hover>
+        <Table striped responsive>
       <thead>
         <tr>
           <th className='th-title'>#</th>

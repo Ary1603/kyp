@@ -86,15 +86,17 @@
   }
 
   .invitation-form-bronze-container-sofdie160224 {
-    background-size: 120% 1523px;
-    background-position: -80px -441px;
+    background-size: cover;
+    /* background-size: 120% 1523px;
+    background-position: -80px -441px; */
   }
 }
 
 @media screen and (max-width: 600px) {
   .invitation-form-bronze-container-sofdie160224 {
-    background-size: 125% 1123px;
-    background-position: -70px -206px;
+    background-size: cover;
+    /* background-size: 125% 1123px;
+    background-position: -70px -206px; */
   }
 }
 

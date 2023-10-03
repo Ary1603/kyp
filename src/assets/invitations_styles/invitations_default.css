@@ -595,9 +595,22 @@
   .invitation-phrase {
     font-size: 18px;
   }
+
+  .btn-print-list {
+    font-size: 12px !important;
+    margin-left: 70%;
+    margin-bottom: 50px;
+  }
+  
 }
 
 @media screen and (max-width: 450px) {
+  .btn-print-list {
+    font-size: 12px !important;
+    margin-left: 70%;
+    margin-bottom: 20px;
+  }
+  
   .cover-invitation-title {
     font-size: 55px;
   }
