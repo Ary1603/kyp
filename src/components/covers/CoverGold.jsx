@@ -2,7 +2,7 @@ import React from 'react'
 import TraditionalCountdown from '../countdown/TraditionalCountdown'
 
 function CoverGold({cover_img, event_name, class_Id, event_date}) {
-    console.log(event_date)
+
   return (
     <div
       className={`cover-invitation-container cover-invitation-container-${class_Id}`}

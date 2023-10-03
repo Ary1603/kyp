@@ -7,7 +7,7 @@ import FooterInvitations from '../../footers/FooterInvitations'
 
 function BronzeTemplate({invitation_data}) {
     let {id, class_Id, cover_img, event_name, event_date, phrase, images, event_details, texture} = invitation_data
-    console.log(invitation_data)
+
     //style={{backgroundImage: `url('${texture}')`}}
   return (
     <>

@@ -40,6 +40,7 @@ function CustomTabPanel(props) {
   }
 
 function TabMaps({locations, class_Id}) {
+  console.log(locations)
     const [value, setValue] = React.useState(0);
 
   const handleChange = (event, newValue) => {
@@ -52,6 +53,7 @@ function TabMaps({locations, class_Id}) {
       <Box sx={{ borderBottom: 1, borderColor: 'divider' }}>
         <Tabs value={value} onChange={handleChange} aria-label="basic tabs example">
             {locations.map((location, key) => (
+              
                 <Tab key={key} label={`${location.place_name}`} {...a11yProps(key)} />
             ))}
           

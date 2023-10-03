@@ -16,7 +16,6 @@ import { BsFacebook, BsInstagram } from "react-icons/bs";
 
 import { invitations_data } from "../data/invitations_data";
 function Home() {
-  console.log(invitations_data.bronze_demo);
   return (
     <>
       <NavbarBootstrap />

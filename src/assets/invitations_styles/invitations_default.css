@@ -18,7 +18,6 @@
   position: absolute;
   text-align: center;
   top: 39%;
-  left: 25%;
   font-size: 5vw;
   color: aliceblue;
 }
@@ -121,6 +120,12 @@
 
 .css-19kzrtu {
   padding: 0px !important;
+}
+.MuiTabs-scroller{
+  overflow: auto !important;
+}
+.css-jpln7h-MuiTabs-scroller{
+  overflow: auto !important;
 }
 
 /*Form*/
@@ -639,6 +644,12 @@
     width: 90vw;
   }
 
+  .recomendation-title {
+    padding: 0px;
+    font-size: 42px;
+    margin: 40px 2%;
+  }
+
   .gift-tables-title {
     font-size: 22px;
     padding: 0 4%;
@@ -654,8 +665,9 @@
 @media screen and (max-width: 350px) {
 
   .recomendation-title {
-    padding: 5px 15px;
-    font-size: 38px;
+    padding: 0px;
+    font-size: 3px;
+    margin: 0px 2%;
   }
 
   .recomendation-description {

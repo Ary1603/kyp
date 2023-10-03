@@ -1,7 +1,6 @@
 import React from 'react'
 
 function GiftTables({ gift_tables, class_Id }) {
-    console.log(gift_tables)
     return (
         <section className={`gift-tables-section gift-tables-section-${class_Id}`}>
             <h3 className={`gift-tables-title`}>Tu Presencia es el Mejor Regalo, pero si Deseas Hacer Más Especial Nuestro Día...</h3>

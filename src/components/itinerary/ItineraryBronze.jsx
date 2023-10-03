@@ -1,7 +1,7 @@
 import React from 'react'
 
 function ItineraryBronze({image, class_Id, itinerary, dresscode}) {
-  console.log(itinerary)
+
   return (
     <>
     
