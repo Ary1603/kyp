@@ -1,142 +1,130 @@
 /**************************** Invitations (individual customs) ****************************/
 
 /*Invitacion Oro id: sofiadiego260923 class_Id: sofdie160224  */
-.gold-template-sofdie160224{
-    background-color:  #b7ccb963;
+.gold-template-sofdie160224 {
+  background-color: #b7ccb963;
 }
-.cover-invitation-title-sofdie160224{
-    top: 40%;
-    left: 33%;
+.cover-invitation-title-sofdie160224 {
+  top: 40%;
+  left: 33%;
 }
 
-.save-the-date-title-sofdie160224{
-    font-size: 55px;
+.save-the-date-title-sofdie160224 {
+  font-size: 55px;
 }
 .event-date-sofdie160224 {
-    font-size: 25px;
+  font-size: 25px;
 }
 .hr-event-date-sofdie160224 {
-    width: 34%;
-    margin: 21px 15px 0;
+  width: 34%;
+  margin: 21px 15px 0;
 }
 
-.event-date-sofdie160224{
-    font-size: 25px;
+.event-date-sofdie160224 {
+  font-size: 25px;
 }
 
-
-.itinerary-image-bronze-sofdie160224{
-        height: 370px;
-        object-position: 0 -330px;
+.itinerary-image-bronze-sofdie160224 {
+  height: 370px;
+  object-position: 0 -330px;
 }
 
-.btn-form-bronze-sofdie160224, .invitation-footer-sofdie160224, .dresscode-card-sofdie160224, .maps-link-sofdie160224{
-    color: #F2E1C2;
-    background-color:  #576859;
+.btn-form-bronze-sofdie160224,
+.invitation-footer-sofdie160224,
+.dresscode-card-sofdie160224,
+.maps-link-sofdie160224 {
+  color: #f2e1c2;
+  background-color: #576859;
 }
 
-.itinerary-activity-card-sofdie160224{
-    background-color: #576859 ;
-    color: #F2E1C2;
+.itinerary-activity-card-sofdie160224 {
+  background-color: #576859;
+  color: #f2e1c2;
 }
 
-.gallery-section-sofdie160224{
-    color: #F2F2F0;
-    background-color: #92a58d
+.gallery-section-sofdie160224 {
+  color: #f2f2f0;
+  background-color: #92a58d;
 }
 
 /****************************  Media Query Params (gold template)  *****************************/
 @media screen and (max-width: 1450px) {
-    
-
-    .cover-invitation-title-sofdie160224 {
-        top: 35%;
-        left: 29%;
-        font-size: 95px;
-    }
+  .cover-invitation-title-sofdie160224 {
+    top: 35%;
+    left: 29%;
+    font-size: 95px;
+  }
 }
 @media screen and (max-width: 1200px) {
-    .cover-invitation-container-sofdie160224{
-        background-position: 0px 0px;
-    }
+  .cover-invitation-container-sofdie160224 {
+    background-position: 0px 0px;
+  }
 
-    .cover-invitation-title-sofdie160224{
-        top: 40%;
+  .cover-invitation-title-sofdie160224 {
+    top: 40%;
     left: 25%;
-        font-size: 75px;
-    }
-
-    .form-image-sofdie160224{
-        object-position: -32px 40px
-    }
+    font-size: 75px;
   }
-  
-  @media screen and (max-width: 850px) {
-    .cover-invitation-container-sofdie160224 {
-        background-position: -425px 0px;
-    }
 
-    .cover-invitation-title-sofdie160224{
-        top: 40%;
+  .form-image-sofdie160224 {
+    object-position: -32px 40px;
+  }
+}
+
+@media screen and (max-width: 850px) {
+  .cover-invitation-container-sofdie160224 {
+    background-position: -425px 0px;
+  }
+
+  .cover-invitation-title-sofdie160224 {
+    top: 40%;
     left: 19%;
-        font-size: 75px;
-    }
-    .itinerary-image-bronze-sofdie160224{
-        object-position: 0 -130px;
-    }
-
-    .invitation-form-bronze-container-sofdie160224{
-        background-size: 120% 1523px;
-        background-position: -80px -441px;
-        
-    }
+    font-size: 75px;
   }
-  
-  @media screen and (max-width: 600px) {
-
-    .invitation-form-bronze-container-sofdie160224{
-        background-size: 125% 1123px;
-        background-position: -70px -206px;
-    
-        
-    }
-
- 
+  .itinerary-image-bronze-sofdie160224 {
+    object-position: 0 -130px;
   }
-  
-  @media screen and (max-width: 450px) {
-    .cover-invitation-container-sofdie160224{
-        background-position: -390px 0px;
-    }
-    .cover-invitation-title-sofdie160224 {
-        top: 35%;
-        left: 6%;
-    }
 
-    .itinerary-image-bronze-sofdie160224{
-        height: 400px;
-        object-position: -90px -30px;
-    }
-
+  .invitation-form-bronze-container-sofdie160224 {
+    background-size: 120% 1523px;
+    background-position: -80px -441px;
   }
-  
-  @media screen and (max-width: 350px) {
-    .cover-invitation-container-sofdie160224{
-        background-position: -430px 0px;
-    }
+}
 
-    .event-date {
-      font-size: 18px;
-      margin: 0 20%;
-    }
-
-    
-    .invitation-form-bronze-container-sofdie160224{
-        background-size: 450px 823px;
-        background-position: -90px -201px;
-        
-    }
+@media screen and (max-width: 600px) {
+  .invitation-form-bronze-container-sofdie160224 {
+    background-size: 125% 1123px;
+    background-position: -70px -206px;
   }
-  
+}
 
+@media screen and (max-width: 450px) {
+  .cover-invitation-container-sofdie160224 {
+    background-position: -390px 0px;
+  }
+  .cover-invitation-title-sofdie160224 {
+    top: 35%;
+    left: 6%;
+  }
 
+  .itinerary-image-bronze-sofdie160224 {
+    height: 400px;
+    object-position: -90px -30px;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  .cover-invitation-container-sofdie160224 {
+    background-position: -430px 0px;
+  }
+
+  .event-date {
+    font-size: 18px;
+    margin: 0 20%;
+  }
+
+  .invitation-form-bronze-container-sofdie160224 {
+    background-size: 450px 823px;
+    background-position: -90px -201px;
+  }
+}
