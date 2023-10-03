@@ -11,7 +11,6 @@ import RecomendationsCard from '../../cards/RecomendationsCard'
 import GiftTables from '../../cards/GiftTables'
 
 function DiamondTemplate({invitation_data}) {
-    console.log(invitation_data)
     let {id, class_Id, cover_img, event_name, event_date, phrase, images, event_details, gallery, recomendations, gift_tables} = invitation_data
     return (
       <div className={`gold-template gold-template-${class_Id}`}>

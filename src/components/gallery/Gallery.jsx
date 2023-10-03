@@ -117,7 +117,6 @@ function Gallery({class_Id, gallery}) {
     };
   });
   
-  console.log(gallery_images)
   return (
     <>
     <h2 className={`gallery-title gallery-title-${class_Id}`}>NUESTROS MEJORES MOMENTOS</h2>

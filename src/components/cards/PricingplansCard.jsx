@@ -23,10 +23,10 @@ function PricingplansCard({plan, path}) {
             </div>
           </div>
           
-          <button className={`card-button-pricing-plan card-button-pricing-plan-${plan.className}`}>
-            <a href={`${path}`}>
-            Demo </a>
-          </button>
+          <a href={`${path}`}><button className={`card-button-pricing-plan card-button-pricing-plan-${plan.className}`}>
+            
+            Demo 
+          </button></a>
         </div>
     </>
   )

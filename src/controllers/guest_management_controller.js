@@ -37,7 +37,6 @@ export function apiSendConfitmation(id, name, surnames, email, rsvp, message, ph
         }) //.then((response) => console.log(response))
           .then((response) => response.json())
           .then((data) => {
-            console.log(data);
             data.status == 200
               ? sweetAlerts(
                 "success",

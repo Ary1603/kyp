@@ -1,7 +1,7 @@
 import React from "react";
 
 function CoverBronze({ cover_img, event_name, class_Id }) {
-  console.log(event_name);
+
   return (
     <div
       className={`cover-invitation-container cover-invitation-container-${class_Id}`}
